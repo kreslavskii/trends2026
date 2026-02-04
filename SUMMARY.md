@@ -22,7 +22,7 @@
 * [Маркетинг 2026: ИИ-агенты, синтетические данные и микросообщества. KANTAR](marketing/marketing-2026-ii-agenty-sinteticheskie-dannye-i.md)
 * [Маркетинг 2026: человеческое творчество, ИИ-поиск и экономика авторов. HAVAS MEDIA NETWORK NA](marketing/marketing-2026-chelovecheskoe-tvorchestvo-ii-poisk-i-ekonomika.md)
 * [Маркетинг в соцсетях 2026: рост задач при нехватке ресурсов. EMPLIFI](marketing/marketing-v-sotssetyah-2026-rost-zadach-pri-nehvatke-resursov.md)
-* [Маркетинг с авторами контента: рост инвестиций на 171% и эра результатов. CREATORIQ](marketing/marketing-s-avtorami-kontenta-rost-investitsiy-na-171%-i-era.md)
+* [Маркетинг с авторами контента: рост инвестиций на 171% и эра результатов. CREATORIQ](marketing/marketing-s-avtorami-kontenta-rost-investitsiy-na-171-i-era.md)
 * [Медиареакции APAC: Netflix лидирует, Digital Out of Home на подъёме. KANTAR](marketing/mediareaktsii-apac-netflix-lidiruet-digital-out-of-home-na.md)
 * [Медиареакции: разрыв предпочтений потребителей и маркетологов. KANTAR](marketing/mediareaktsii-razryv-predpochteniy-potrebiteley-i.md)
 * [Мягкий бунт: визуальные тренды между реальностью и ИИ. DEPOSITPHOTOS](marketing/myagkiy-bunt-vizualnye-trendy-mezhdu-realnostyu-i-ii.md)
@@ -109,7 +109,7 @@
 
 ## Технологии
 
-* [Wayfinder: обзор трендов 2025–2026. EZRA EEMAN](tehnologii/wayfinder-obzor-trendov-2025–2026-ezra-eeman.md)
+* [Wayfinder: обзор трендов 2025–2026. EZRA EEMAN](tehnologii/wayfinder-obzor-trendov-2025-2026-ezra-eeman.md)
 * [Агентский ИИ: архитектура данных, безопасность и кризис наблюдаемости. CRIBL](tehnologii/agentskiy-ii-arhitektura-dannyh-bezopasnost-i-krizis.md)
 * [Европейские технологии: триллион добавленной стоимости и вызовы роста. ATOMICO](tehnologii/evropeyskie-tehnologii-trillion-dobavlennoy-stoimosti-i.md)
 * [На переднем крае технологий. OM FUTURES](tehnologii/na-perednem-krae-tehnologiy-om-futures.md)
@@ -133,7 +133,7 @@
 * [Многоквартирная недвижимость США: ИИ, автоматизация и борьба за жильцов. APARTMENTSCOM](nedvizhimost/mnogokvartirnaya-nedvizhimost-ssha-ii-avtomatizatsiya-i-borba.md)
 * [Новые тренды европейской недвижимости 2026. PWC](nedvizhimost/novye-trendy-evropeyskoy-nedvizhimosti-2026-pwc.md)
 * [Рынок недвижимости США и Канады: ориентиры в неопределённости. PWC](nedvizhimost/rynok-nedvizhimosti-ssha-i-kanady-orientiry-v.md)
-* [Рынок элитной жилой недвижимости 2025–2026. KNIGHT FRANK](nedvizhimost/rynok-elitnoy-zhiloy-nedvizhimosti-2025–2026-knight-frank.md)
+* [Рынок элитной жилой недвижимости 2025–2026. KNIGHT FRANK](nedvizhimost/rynok-elitnoy-zhiloy-nedvizhimosti-2025-2026-knight-frank.md)
 
 ## Путешествия и туризм
 
@@ -221,7 +221,7 @@
 
 ## Энергетика
 
-* [Солнечная энергетика: 601 GW установок и 10% мирового электричества. IEA](energetika/solnechnaya-energetika-601-gw-ustanovok-i-10%-mirovogo.md)
+* [Солнечная энергетика: 601 GW установок и 10% мирового электричества. IEA](energetika/solnechnaya-energetika-601-gw-ustanovok-i-10-mirovogo.md)
 
 ## Финансы
 
@@ -237,7 +237,7 @@
 * [Инвестиционный прогноз Morningstar 2026. MORNINGSTAR](finansy/investitsionnyy-prognoz-morningstar-2026-morningstar.md)
 * [Инвестиционный прогноз на год вперёд. JP MORGAN](finansy/investitsionnyy-prognoz-na-god-vperyod-jp-morgan.md)
 * [Макроэкономика 2026: устойчивость вопреки тарифам и ИИ-бум. CAIXABANK](finansy/makroekonomika-2026-ustoychivost-vopreki-tarifam-i-ii-bum.md)
-* [Прогноз доходностей 2026–2030: «Тусклое возрождение». ROBECO](finansy/prognoz-dohodnostey-2026–2030-tuskloe-vozrozhdenie-robeco.md)
+* [Прогноз доходностей 2026–2030: «Тусклое возрождение». ROBECO](finansy/prognoz-dohodnostey-2026-2030-tuskloe-vozrozhdenie-robeco.md)
 * [Реальности страхового рынка 2026. WTW](finansy/realnosti-strahovogo-rynka-2026-wtw.md)
 * [Экономика создателей контента: монетизация 2025. VISA](finansy/ekonomika-sozdateley-kontenta-monetizatsiya-2025-visa.md)
 * [Экономический и рыночный прогноз 2026. MERCER](finansy/ekonomicheskiy-i-rynochnyy-prognoz-2026-mercer.md)
